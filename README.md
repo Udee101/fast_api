@@ -39,7 +39,7 @@
 
 - Run the app
   ```
-  uvicorn fast-api.main:app --reload
+  uvicorn sql_app.main:app --reload
   ```
 
 The app will lauch on port 8000
